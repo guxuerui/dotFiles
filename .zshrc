@@ -134,7 +134,7 @@ alias got='git log --pretty=format:"%h%x09%an%x09%ad%x09%s" | grep -E "\ 20:|\ 2
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 export LANG=zh_CN.UTF-8
-export LC_ALL=zh_CN.UTF-8
+export LC_ALL=en_US.UTF-8
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
