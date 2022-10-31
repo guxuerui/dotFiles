@@ -121,6 +121,7 @@ alias nb="nr build"
 alias lint="nr lint"
 alias lintf="nr lint --fix"
 alias t="nr test"
+alias vim="nvim"
 
 # Rember the folder path
 alias nav='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
