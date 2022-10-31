@@ -110,7 +110,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias ggsp="git stash; git pull --rebase origin main; git stash pop;"
+alias ggsp="git stash; git pull --rebase --autostash origin main; git stash pop;"
 alias gpp="git pull --rebase origin main"
 alias subl="open -a 'Sublime Text'"
 alias build-to-finder="rm -rf dist/; npm run build; rm dist.zip; zip -r -X dist.zip dist/; open ."
