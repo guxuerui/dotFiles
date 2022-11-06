@@ -36,3 +36,6 @@ echo "default_linemode devicons" >> $HOME/.config/ranger/rc.conf
 set draw_borders true
 ```
 
+## 2. Neovim
+
+最新配置文件在[这里](https://github.com/guxuerui/nvim-0.8)
