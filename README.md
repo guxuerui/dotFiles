@@ -2,7 +2,7 @@
 
 This is my dot-files config
 
-## Ranger
+## 1. Ranger
 1. Install
 
 ``` bash
@@ -23,7 +23,7 @@ ranger --copy-config=all
 /Users/xueruigu/workspace/dotFiles/.config/ranger/
 ```
 
-3. Display icon
+3. Display Icon
 
 ``` bash
 git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
