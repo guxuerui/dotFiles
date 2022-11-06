@@ -41,7 +41,9 @@ local options = {
   guifont = "MesloLGS  NF:h16",               -- the font used in graphical neovim applications
   title = true,                           -- title of  :set all 、:autocmd
   backspace = 'start,eol,indent',
-  shell = 'zsh',
+  shell = 'fish',
+  termguicolors = true,
+  laststatus = 2,
 }
 
 vim.opt.shortmess:append "c"
@@ -54,9 +56,9 @@ for k, v in pairs(options) do
   vim.opt[k] = v
 end
 
-if vim.fn.has("termguicolors") == 1 then
- vim.opt.termguicolors = true
-end
+-- if vim.fn.has("termguicolors") == 1 then
+--  vim.opt.termguicolors = true
+-- end
 
 vim.cmd('autocmd!')
 vim.cmd('syntax on')
