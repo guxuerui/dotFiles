@@ -38,4 +38,4 @@ set draw_borders true
 
 ## 2. Neovim
 
-最新配置文件在[这里](https://github.com/guxuerui/nvim-0.8)
+The latest configuration file is [here](https://github.com/guxuerui/nvim-0.8)
