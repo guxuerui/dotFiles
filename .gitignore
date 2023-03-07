@@ -6,7 +6,6 @@ dist
 .nvmrc
 
 # local env files
-*.local
 .env.local
 .env.*.local
 
