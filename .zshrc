@@ -111,7 +111,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ggsp="git stash; git pull --rebase --autostash origin main; git stash pop;"
-alias gpp="git pull --rebase origin main"
+alias gpp="git pull --rebase --autostash origin main"
+alias ggp="git push origin main"
 alias subl="open -a 'Sublime Text'"
 alias build-to-finder="rm -rf dist/; npm run build; rm dist.zip; zip -r -X dist.zip dist/; open ."
 alias tree="exa -T -l"
@@ -122,7 +123,9 @@ alias nb="nr build"
 alias lint="nr lint"
 alias lintf="nr lint --fix"
 alias t="nr test"
-alias vim="nvim"
+alias dvim="~/Downloads/nvim-macos/bin/nvim -u ~/.config/nvim-0.8/init.lua"
+alias v="nvim"
+alias lz="lazygit"
 
 # Rember the folder path
 alias nav='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
