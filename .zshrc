@@ -123,9 +123,11 @@ alias nb="nr build"
 alias lint="nr lint"
 alias lintf="nr lint --fix"
 alias t="nr test"
-alias dvim="~/Downloads/nvim-macos/bin/nvim -u ~/.config/nvim-0.8/init.lua"
-alias v="nvim"
+alias v="~/.config/nvim/nvim-macos/bin/nvim"
 alias lz="lazygit"
+alias grv="git remote -v"
+alias grr="git remote remove origin"
+alias gra="git remote add origin"
 
 # Rember the folder path
 alias nav='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
