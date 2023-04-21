@@ -128,6 +128,7 @@ alias lz="lazygit"
 alias grv="git remote -v"
 alias grr="git remote remove origin"
 alias gra="git remote add origin"
+alias gc.="git checkout ."
 
 # Rember the folder path
 alias nav='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
