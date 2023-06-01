@@ -4,5 +4,6 @@ set -g fish_user_paths "/Applications/Visual Studio Code.app/Contents/Resources/
 set -gx EDITOR nvim
 set --universal nvm_default_version v18.14.2
 
-set -gx OPENAI_KEY "sk-......."
+set -gx OPENAI_KEY "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
 starship init fish | source
