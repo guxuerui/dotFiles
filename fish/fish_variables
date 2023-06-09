@@ -42,6 +42,7 @@ SETUVAR _fish_abbr_nb:nr\x20build
 SETUVAR _fish_abbr_nd:nr\x20dev
 SETUVAR _fish_abbr_np:npm\x20version\x20patch\x3bnpm\x20publish
 SETUVAR _fish_abbr_p:nr\x20bumpp\x3bnpm\x20publish
+SETUVAR _fish_abbr_pre:nr\x20preview
 SETUVAR _fish_abbr_rma:rm\x20\x2drf\x20dist\x3brm\x20\x2drf\x20dist\x2ezip
 SETUVAR _fish_abbr_rmd:rm\x20\x2drf\x20dist
 SETUVAR _fish_abbr_t:nr\x20test
