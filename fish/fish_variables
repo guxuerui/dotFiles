@@ -45,6 +45,7 @@ SETUVAR _fish_abbr_p:nr\x20bumpp\x3bnpm\x20publish
 SETUVAR _fish_abbr_pre:nr\x20preview
 SETUVAR _fish_abbr_rma:rm\x20\x2drf\x20dist\x3brm\x20\x2drf\x20dist\x2ezip
 SETUVAR _fish_abbr_rmd:rm\x20\x2drf\x20dist
+SETUVAR _fish_abbr_rmi:rm\x20\x2drf\x20node_modules/\x3bni
 SETUVAR _fish_abbr_t:nr\x20test
 SETUVAR _fish_abbr_taze:npx\x20taze
 SETUVAR _fish_abbr_tk:tmux\x20kill\x2dsession\x20\x2dt
@@ -52,6 +53,7 @@ SETUVAR _fish_abbr_tls:tmux\x20ls
 SETUVAR _fish_abbr_tma:tmux\x20attach\x20\x2dt
 SETUVAR _fish_abbr_tn:tmux\x20new\x20\x2ds
 SETUVAR _fish_abbr_tree:exa\x20\x2dT\x20\x2dl
+SETUVAR _fish_abbr_up:nr\x20up
 SETUVAR _fish_abbr_v:\x7e/\x2econfig/nvim/nvim\x2dmacos/bin/nvim
 SETUVAR _fish_abbr_vim:nvim
 SETUVAR _fisher_jethrokuan_2F_z_files:\x7e/\x2econfig/fish/functions/__z\x2efish\x1e\x7e/\x2econfig/fish/functions/__z_add\x2efish\x1e\x7e/\x2econfig/fish/functions/__z_clean\x2efish\x1e\x7e/\x2econfig/fish/functions/__z_complete\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/z\x2efish
