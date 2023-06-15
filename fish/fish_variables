@@ -47,6 +47,7 @@ SETUVAR _fish_abbr_rma:rm\x20\x2drf\x20dist\x3brm\x20\x2drf\x20dist\x2ezip
 SETUVAR _fish_abbr_rmd:rm\x20\x2drf\x20dist
 SETUVAR _fish_abbr_rmi:rm\x20\x2drf\x20node_modules/\x3bni
 SETUVAR _fish_abbr_t:nr\x20test
+SETUVAR _fish_abbr_tag:git\x20tag
 SETUVAR _fish_abbr_taze:npx\x20taze
 SETUVAR _fish_abbr_tk:tmux\x20kill\x2dsession\x20\x2dt
 SETUVAR _fish_abbr_tls:tmux\x20ls
