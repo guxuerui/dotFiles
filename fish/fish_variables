@@ -9,7 +9,7 @@ SETUVAR __fish_initialized:3400
 SETUVAR _fish_abbr_build_2D_to_2D_finder:rm\x20\x2drf\x20dist/\x3b\x20npm\x20run\x20build\x3b\x20rm\x20dist\x2ezip\x3b\x20zip\x20\x2dr\x20\x2dX\x20dist\x2ezip\x20dist/\x3b\x20open\x20\x2e
 SETUVAR _fish_abbr_ga:git\x20add
 SETUVAR _fish_abbr_gb:git\x20branch
-SETUVAR _fish_abbr_gbD:git\x20branch\x20\x2dd
+SETUVAR _fish_abbr_gbD:git\x20branch\x20\x2dD
 SETUVAR _fish_abbr_gba:git\x20branch\x20\x2da
 SETUVAR _fish_abbr_gbd:git\x20branch\x20\x2dd
 SETUVAR _fish_abbr_gc:git\x20commit\x20\x2dv\x20\x2dm
