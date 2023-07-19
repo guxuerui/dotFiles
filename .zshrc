@@ -129,6 +129,7 @@ alias grv="git remote -v"
 alias grr="git remote remove origin"
 alias gra="git remote add origin"
 alias gc.="git checkout ."
+alias p="nr bumpp;npm publish"
 
 # Rember the folder path
 alias nav='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
