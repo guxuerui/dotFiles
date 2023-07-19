@@ -141,6 +141,8 @@ alias got='git log --pretty=format:"%h%x09%an%x09%ad%x09%s" | grep -E "\ 20:|\ 2
 # fzf
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
+export OPENAI_KEY="sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
 export LANG=zh_CN.UTF-8
 export LC_ALL=en_US.UTF-8
 
