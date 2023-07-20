@@ -48,6 +48,7 @@ SETUVAR _fish_abbr_nd:nr\x20dev
 SETUVAR _fish_abbr_np:npm\x20version\x20patch\x3bnpm\x20publish
 SETUVAR _fish_abbr_p:nr\x20bumpp\x3bnpm\x20publish
 SETUVAR _fish_abbr_pre:nr\x20preview
+SETUVAR _fish_abbr_pulld:git\x20pull\x20\x2d\x2drebase\x20origin\x20\x2d\x2dautostash\x20develop
 SETUVAR _fish_abbr_rma:rm\x20\x2drf\x20dist\x3brm\x20\x2drf\x20dist\x2ezip
 SETUVAR _fish_abbr_rmd:rm\x20\x2drf\x20dist
 SETUVAR _fish_abbr_rmi:rm\x20\x2drf\x20node_modules/\x3bni
