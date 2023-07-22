@@ -131,6 +131,8 @@ alias gra="git remote add origin"
 alias gc.="git checkout ."
 alias p="nr bumpp;npm publish"
 alias pre="nr preview"
+alias tls="tmux ls"
+alias tma="tmux attach -t"
 
 # Rember the folder path
 alias nav='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
