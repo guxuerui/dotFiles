@@ -5,5 +5,6 @@ set -gx EDITOR nvim
 set --universal nvm_default_version v18.14.2
 
 set -gx OPENAI_KEY "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+set -gx OPENAI_API_KEY "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 starship init fish | source
