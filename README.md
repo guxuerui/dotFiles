@@ -26,6 +26,12 @@ Quickly install and switch between runtimes without cluttering your home directo
 fisher install jorgebucaran/nvm.fish
 ```
 
+**Re-run the fish configuration file** after add new environment variables
+
+```bash
+source ~/.config/fish/config.fish
+```
+
 ## 3. Ranger
 
 1. Install
