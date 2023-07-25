@@ -133,6 +133,7 @@ alias p="nr bumpp;npm publish"
 alias pre="nr preview"
 alias tls="tmux ls"
 alias tma="tmux attach -t"
+alias tagn="git tag -n"
 
 # Rember the folder path
 alias nav='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
