@@ -134,6 +134,8 @@ alias pre="nr preview"
 alias tls="tmux ls"
 alias tma="tmux attach -t"
 alias tag="git tag -n"
+alias rma="rm -rf dist;rm -rf dist.zip"
+alias rmd="rm -rf dist"
 
 # Rember the folder path
 alias nav='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
