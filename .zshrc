@@ -138,6 +138,9 @@ alias tag="git tag -n"
 alias rma="rm -rf dist;rm -rf dist.zip"
 alias rmd="rm -rf dist"
 alias ng="nr changelog"
+alias docd="nr docs:dev"
+alias docb="nr docs:build"
+alias docp="nr docs:preview"
 
 # Rember the folder path
 alias nav='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
