@@ -8,6 +8,7 @@ SETUVAR Z_EXCLUDE:\x5e/Users/xueruigu\x24
 SETUVAR __fish_initialized:3400
 SETUVAR _fish_abbr_b:nr\x20xbuild
 SETUVAR _fish_abbr_build_2D_to_2D_finder:rm\x20\x2drf\x20dist/\x3b\x20npm\x20run\x20build\x3b\x20rm\x20dist\x2ezip\x3b\x20zip\x20\x2dr\x20\x2dX\x20dist\x2ezip\x20dist/\x3b\x20open\x20\x2e
+SETUVAR _fish_abbr_clog:nr\x20changelog
 SETUVAR _fish_abbr_docb:nr\x20docs\x3abuild
 SETUVAR _fish_abbr_docd:nr\x20docs\x3adev
 SETUVAR _fish_abbr_docp:nr\x20docs\x3apreview
