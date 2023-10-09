@@ -12,6 +12,7 @@ SETUVAR _fish_abbr_clog:nr\x20changelog
 SETUVAR _fish_abbr_docb:nr\x20docs\x3abuild
 SETUVAR _fish_abbr_docd:nr\x20docs\x3adev
 SETUVAR _fish_abbr_docp:nr\x20docs\x3apreview
+SETUVAR _fish_abbr_g:aic\x20\x2d\x2dgenerate\x205
 SETUVAR _fish_abbr_ga:git\x20add
 SETUVAR _fish_abbr_gb:git\x20branch
 SETUVAR _fish_abbr_gbD:git\x20branch\x20\x2dD
