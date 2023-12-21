@@ -1,0 +1,26 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	20
+#@/user_id	2d90ccc7-44c4-48ff-83fa-699a681d937f
+bu 	不	c=1 d=1 t=18
+bu liao 	不了	c=0 d=0.0946485 t=20
+dao 	道	c=1 d=1 t=20
+duan 	断	c=0 d=0.0946485 t=20
+duan bu liao 	断不了	c=1 d=0.951229 t=20
+ji 	吉	c=1 d=1 t=19
+li 	里	c=1 d=0.97531 t=20
+me 	麼	c=1 d=1 t=16
+na fang 	娜芳	c=1 d=1 t=17
+na li de 	哪裏的	c=1 d=0.960789 t=20
+ne 	呢	c=1 d=0.970446 t=20
+ni 	你	c=1 d=1 t=14
+o o 	哦哦	c=1 d=0.980199 t=20
+ou ke 	歐克	c=1 d=1 t=13
+pei zhi 	配置	c=2 d=1.98012 t=20
+ren 	人	c=1 d=0.965605 t=20
+ta 	它	c=1 d=0.946485 t=20
+wen jian 	文件	c=2 d=1.99005 t=20
+yong guo 	用過	c=1 d=1 t=15
+zhu yao shi 	主要是	c=1 d=0.955997 t=20
