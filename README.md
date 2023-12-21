@@ -66,3 +66,7 @@ echo "default_linemode devicons" >> $HOME/.config/ranger/rc.conf
 ``` bash
 set draw_borders true
 ```
+
+## 4. Rime
+
+> 【鼠鬚管】Rime for macOS
