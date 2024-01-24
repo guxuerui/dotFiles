@@ -56,11 +56,14 @@ SETUVAR _fish_abbr_nd:nr\x20dev
 SETUVAR _fish_abbr_np:npm\x20version\x20patch\x3bnpm\x20publish
 SETUVAR _fish_abbr_p:nr\x20bumpp\x3bnpm\x20publish
 SETUVAR _fish_abbr_pre:nr\x20preview
+SETUVAR _fish_abbr_pspot:ps\x20\x2def\x7cgrep\x20nginx
 SETUVAR _fish_abbr_pulld:git\x20pull\x20\x2d\x2drebase\x20origin\x20\x2d\x2dautostash\x20develop
+SETUVAR _fish_abbr_restart:brew\x20services\x20restart\x20nginx
 SETUVAR _fish_abbr_rm:rm\x20\x2drf
 SETUVAR _fish_abbr_rma:rm\x20\x2drf\x20dist\x3brm\x20\x2drf\x20dist\x2ezip
 SETUVAR _fish_abbr_rmd:rm\x20\x2drf\x20dist
 SETUVAR _fish_abbr_rmi:rm\x20\x2drf\x20node_modules/\x3bni
+SETUVAR _fish_abbr_start:brew\x20services\x20start\x20nginx
 SETUVAR _fish_abbr_t:nr\x20test
 SETUVAR _fish_abbr_tag:git\x20tag\x20\x2dn
 SETUVAR _fish_abbr_taze:npx\x20taze
