@@ -40,6 +40,7 @@ SETUVAR _fish_abbr_grr:git\x20remote\x20remove
 SETUVAR _fish_abbr_grs:git\x20restore\x20\x2d\x2dstaged
 SETUVAR _fish_abbr_grv:git\x20remote\x20\x2dv
 SETUVAR _fish_abbr_gs:git\x20stash
+SETUVAR _fish_abbr_gsd:git\x20switch\x20develop
 SETUVAR _fish_abbr_gsf:git\x20stash\x20push\x20\x2dm
 SETUVAR _fish_abbr_gsp:git\x20stash\x20pop
 SETUVAR _fish_abbr_gst:git\x20status
