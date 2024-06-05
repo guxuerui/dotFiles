@@ -55,6 +55,7 @@ SETUVAR _fish_abbr_mux:tmuxinator
 SETUVAR _fish_abbr_nb:nr\x20build
 SETUVAR _fish_abbr_nd:nr\x20dev
 SETUVAR _fish_abbr_np:npm\x20version\x20patch\x3bnpm\x20publish
+SETUVAR _fish_abbr_oneday:git\x20log\x20\x2d\x2dsince\x3dmidnight\x20\x2d\x2doneline
 SETUVAR _fish_abbr_p:nr\x20bumpp\x3bnpm\x20publish
 SETUVAR _fish_abbr_pre:nr\x20preview
 SETUVAR _fish_abbr_pspot:ps\x20\x2def\x7cgrep\x20nginx
@@ -72,6 +73,7 @@ SETUVAR _fish_abbr_tk:tmux\x20kill\x2dsession\x20\x2dt
 SETUVAR _fish_abbr_tls:tmux\x20ls
 SETUVAR _fish_abbr_tma:tmux\x20attach\x20\x2dt
 SETUVAR _fish_abbr_tn:tmux\x20new\x20\x2ds
+SETUVAR _fish_abbr_today:git\x20config\x20\x2d\x2dglobal\x20alias\x2etoday\x20\x22log\x20\x2d\x2dsince\x3dmidnight\x20\x2d\x2dpretty\x3dformat\x3a\x27\x25h\x20\x2d\x20\x25an\x2c\x20\x25ar\x20\x3a\x20\x25s\x27\x22
 SETUVAR _fish_abbr_tree:exa\x20\x2dT\x20\x2dl
 SETUVAR _fish_abbr_up:nr\x20up
 SETUVAR _fish_abbr_v:\x7e/\x2econfig/nvim/nvim\x2dmacos/bin/nvim
