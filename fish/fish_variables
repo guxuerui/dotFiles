@@ -65,6 +65,7 @@ SETUVAR _fish_abbr_rm:rm\x20\x2drf
 SETUVAR _fish_abbr_rma:rm\x20\x2drf\x20dist\x3brm\x20\x2drf\x20dist\x2ezip
 SETUVAR _fish_abbr_rmd:rm\x20\x2drf\x20dist
 SETUVAR _fish_abbr_rmi:rm\x20\x2drf\x20node_modules/\x3bni
+SETUVAR _fish_abbr_set_2D_locale:export\x20LESSCHARSET\x3dutf\x2d8
 SETUVAR _fish_abbr_start:brew\x20services\x20start\x20nginx
 SETUVAR _fish_abbr_t:nr\x20test
 SETUVAR _fish_abbr_tag:git\x20tag\x20\x2dn
@@ -73,7 +74,7 @@ SETUVAR _fish_abbr_tk:tmux\x20kill\x2dsession\x20\x2dt
 SETUVAR _fish_abbr_tls:tmux\x20ls
 SETUVAR _fish_abbr_tma:tmux\x20attach\x20\x2dt
 SETUVAR _fish_abbr_tn:tmux\x20new\x20\x2ds
-SETUVAR _fish_abbr_today:git\x20log\x20\x2d\x2dsince\x3dmidnight\x20\x2d\x2dpretty\x3dformat\x3a\x27\x25h\x20\x2d\x20\x25an\x2c\x20\x25ar\x20\x3a\x20\x25s
+SETUVAR _fish_abbr_today:git\x20log\x20\x2d\x2dauthor\x3dguxuerui\x20\x2d\x2dsince\x3dmidnight\x20\x2d\x2dpretty\x3dformat\x3a\x27\x25h\x20\x2d\x20\x25an\x2c\x20\x25ar\x20\x3a\x20\x25s\x27\x20\x7c\x20pbcopy
 SETUVAR _fish_abbr_tree:exa\x20\x2dT\x20\x2dl
 SETUVAR _fish_abbr_up:nr\x20up
 SETUVAR _fish_abbr_v:\x7e/\x2econfig/nvim/nvim\x2dmacos/bin/nvim
