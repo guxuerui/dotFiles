@@ -1,0 +1,23 @@
+[user]
+	name = gxr
+	email = xxx@gmail.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[alias]
+	today = log --author=gxr --since=midnight --pretty=format:'%h - %an, %ar : %s'
+  dft = difftool
+  dlog = "-c diff.external=difft log -p --ext-diff"
+; use difftastic as default diff tool
+[diff]
+  external = difft
+  tool = difftastic
+[difftool]
+  prompt = false
+[difftool "difftastic"]
+  cmd = difft "$LOCAL" "$REMOTE"
+[pager]
+  difftool = true
+
