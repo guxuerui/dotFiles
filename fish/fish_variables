@@ -23,6 +23,9 @@ SETUVAR _fish_abbr_gc_2E_:git\x20checkout\x20\x2e
 SETUVAR _fish_abbr_gcb:git\x20checkout\x20\x2db
 SETUVAR _fish_abbr_gco:git\x20checkout
 SETUVAR _fish_abbr_gd:git\x20diff
+SETUVAR _fish_abbr_gdb:GIT_EXTERNAL_DIFF\x3ddifft\x20git\x20show\x20HEAD\x20\x2d\x2dext\x2ddiff
+SETUVAR _fish_abbr_gdf:GIT_EXTERNAL_DIFF\x3ddifft\x20git\x20diff
+SETUVAR _fish_abbr_gdh:GIT_EXTERNAL_DIFF\x3ddifft\x20git\x20show\x20HEAD\x20\x2d\x2dext\x2ddiff
 SETUVAR _fish_abbr_gds:git\x20diff\x20\x2d\x2dstat
 SETUVAR _fish_abbr_ggp:git\x20push\x20origin\x20main
 SETUVAR _fish_abbr_ggsp:git\x20stash\x3b\x20git\x20pull\x20\x2d\x2drebase\x20\x2d\x2dautostash\x20origin\x20main\x3b\x20git\x20stash\x20pop\x3b
