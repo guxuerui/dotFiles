@@ -29,7 +29,7 @@ palette = 13=#bb9af7
 palette = 14=#7dcfff
 palette = 15=#c0caf5
 font-size = 18
-custom-shader = /Users/xueruigu/.config/ghostty/shaders/starfield-colors.glsl
+custom-shader = /Users/xueruigu/.config/ghostty/shaders/bloom.glsl
 
 # key bindings
 keybind = cmd+s>r=reload_config
